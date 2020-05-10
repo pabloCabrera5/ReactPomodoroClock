@@ -1,6 +1,6 @@
 # React Pomodoro Clock
 
-Here you can find an amazing pomoodoro made with React and Redux!<br/>
+Here you can find an amazing pomodoro clock made with React and Redux!<br/>
 You can use it to work hard during a certain period of time and then take a break.
 
 
