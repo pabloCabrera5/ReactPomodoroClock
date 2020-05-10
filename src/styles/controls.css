@@ -1,0 +1,31 @@
+.field-group {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.button-control {
+    background-color: #008CBA; /*Blue*/
+    color: white;
+    
+    border: 2px solid #008CBA;
+    transition-duration: 0.4s;
+
+    margin: 15px;
+    height: 45px;
+    font-style: bold;
+    width: 10%;
+    border-radius: 3%;
+}
+
+.button-control:hover {
+    color: black;
+    background-color: white;
+}
+
+
+@media screen and (max-width:600px) {
+    .button-control {
+        width: 99%;
+    }
+}

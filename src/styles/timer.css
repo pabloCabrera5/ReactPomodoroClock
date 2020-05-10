@@ -1,0 +1,9 @@
+.timerDisplay {
+    font-size: 25px;
+    color: white;
+    font-weight: bolder;
+    border: 1px solid white;    
+}
+p {
+    font-size: 1.5em;
+}
